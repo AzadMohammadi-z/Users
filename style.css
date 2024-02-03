@@ -11,6 +11,9 @@ body {
   border-right: 30px solid #f9f9f9;
   min-height: 169px;
 }
+ul {
+  list-style: none;
+}
 
 .testimonial:before {
   content: "";
